@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+# SharpDevelop 5.1
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotEquation", "PlotEquation\PlotEquation.csproj", "{A2A951C5-A2D8-455A-A966-8314BC5020E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug32|Any CPU = Debug32|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A951C5-A2D8-455A-A966-8314BC5020E7}.Debug32|Any CPU.ActiveCfg = Debug32|Any CPU
+		{A2A951C5-A2D8-455A-A966-8314BC5020E7}.Debug32|Any CPU.Build.0 = Debug32|Any CPU
+		{A2A951C5-A2D8-455A-A966-8314BC5020E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A951C5-A2D8-455A-A966-8314BC5020E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

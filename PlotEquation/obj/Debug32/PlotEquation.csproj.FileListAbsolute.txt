@@ -1,0 +1,63 @@
+E:\PlotEquation\Plugin\PlotEquation\PlotEquation\bin\PlotEquation.dll
+E:\PlotEquation\Plugin\PlotEquation\PlotEquation\bin\PlotEquation.pdb
+E:\PlotEquation\Plugin\PlotEquation\PlotEquation\bin\NCalc.dll
+E:\PlotEquation\Plugin\PlotEquation\PlotEquation\obj\Debug32\PlotEquation.csprojResolveAssemblyReference.cache
+E:\PlotEquation\Plugin\PlotEquation\PlotEquation\obj\Debug32\PlotEquation.dll
+E:\PlotEquation\Plugin\PlotEquation\PlotEquation\obj\Debug32\PlotEquation.pdb
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.dll
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.pdb
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NCalc.dll
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csprojResolveAssemblyReference.cache
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.dll
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.pdb
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csprojResolveAssemblyReference.cache
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.dll
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.pdb
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.dll
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.xml
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.dll
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.xml
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.dll
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.pdb
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NCalc.dll
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.dll
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.dll
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.xml
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.xml
+E:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\Microsoft.Contracts.dll
+C:\Users\ibrahim.MININT-NQUB5GQ\Documents\ibrahim\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim.MININT-NQUB5GQ\Documents\ibrahim\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.dll
+C:\Users\ibrahim.MININT-NQUB5GQ\Documents\ibrahim\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.pdb
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.dll
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.pdb
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NCalc.dll
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.dll
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.dll
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.xml
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.xml
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csprojResolveAssemblyReference.cache
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.dll
+H:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.pdb
+F:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\Microsoft.Contracts.dll
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.dll
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.pdb
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NCalc.dll
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.dll
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.dll
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.xml
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.xml
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csprojResolveAssemblyReference.cache
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.dll
+D:\PlotEquation\Plugin\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.pdb
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.dll
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\PlotEquation.pdb
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\NCalc.dll
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.dll
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.dll
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\NReco.VideoConverter.xml
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\bin\SharpAvi.xml
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csprojAssemblyReference.cache
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csproj.CoreCompileInputs.cache
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.csproj.CopyComplete
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.dll
+D:\Documents\C# Projects\PlotEquation 64-bit\PlotEquation\obj\Debug32\PlotEquation.pdb
